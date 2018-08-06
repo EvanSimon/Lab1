@@ -1,0 +1,4 @@
+/Users/evansimon/Projects/Lab1/Lab1/bin/Release/Lab1.exe
+/Users/evansimon/Projects/Lab1/Lab1/obj/x86/Release/Lab1.csproj.CoreCompileInputs.cache
+/Users/evansimon/Projects/Lab1/Lab1/obj/x86/Release/Lab1.exe
+/Users/evansimon/Projects/Lab1/Lab1/obj/x86/Release/Lab1.csprojResolveAssemblyReference.cache
